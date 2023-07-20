@@ -1,0 +1,1 @@
+export {default as LoginBg} from "../video/background video.mp4";
